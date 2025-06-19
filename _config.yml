@@ -1,3 +1,7 @@
+remote_theme: zerostaticthemes/jekyll-serif-theme
+plugins:
+  - jekyll-remote-theme
+  
 baseurl: '/'
 permalink: pretty
 title: 'Jekyll Serif'
